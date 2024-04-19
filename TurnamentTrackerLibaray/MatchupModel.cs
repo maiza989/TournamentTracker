@@ -9,7 +9,7 @@ namespace TurnamentTrackerLibaray
     public class MatchupModel
     {
         /// <summary>
-        /// Repersent a list of teams matchup being entered in the turnament 
+        /// Repersent a list of teams matchup being entered in the turnament .
         /// </summary>
         public List<MatchupEntryModel> Entries { get; set; } = new List<MatchupEntryModel>();
         /// <summary>

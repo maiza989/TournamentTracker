@@ -9,7 +9,7 @@ namespace TurnamentTrackerLibaray
     public class PersonModel
     {
         /// <summary>
-        /// Repersent a team member first name
+        /// Repersent a team member first name.
         /// </summary>
         public string FirstName { get; set; }
         /// <summary>

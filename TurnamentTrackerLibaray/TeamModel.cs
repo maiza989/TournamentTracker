@@ -9,7 +9,7 @@ namespace TurnamentTrackerLibaray
     public class TeamModel
     {
         /// <summary>
-        /// Represent a list of teams for the turnament
+        /// Represent a list of teams for the turnament.
         /// </summary>
         public List<PersonModel> TeamMembers { get; set; } = new List<PersonModel>();
         /// <summary>

@@ -9,7 +9,7 @@ namespace TurnamentTrackerLibaray
     public class PrizeModel
     {
         /// <summary>
-        /// Repersent the price number. Ex: 1,2,3,4
+        /// Repersent the price number. Ex: 1,2,3,4.
         /// </summary>
         public int PlaceNumber { get; set; }
         /// <summary>

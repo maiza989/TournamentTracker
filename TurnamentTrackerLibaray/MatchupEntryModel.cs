@@ -13,11 +13,11 @@ namespace TurnamentTrackerLibaray
         /// </summary>
         public TeamModel TeamCompeting { get; set; }
         /// <summary>
-        /// Repersent the score for this particular team
+        /// Repersent the score for this particular team.
         /// </summary>
         public double Score { get; set; }
         /// <summary>
-        /// Repersent the matchup that this team came from as the winner
+        /// Repersent the matchup that this team came from as the winner.
         /// </summary>
         public MatchupModel ParentMatchup { get; set; }
     }

@@ -9,11 +9,11 @@ namespace TurnamentTrackerLibaray
     public class TurnamentModel
     {
         /// <summary>
-        /// Represent the name of the turnament
+        /// Represent the name of the turnament.
         /// </summary>
         public string TurnamentName { get; set; }
         /// <summary>
-        /// Repersent the amount of fee to enter the turnament
+        /// Repersent the amount of fee to enter the turnament.
         /// </summary>
         public decimal EntryFee { get; set; }
         /// <summary>
