@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TurnamentTrackerLibaray
 {
+    /// <summary>
+    /// Represent one team in a matchup.
+    /// </summary>
     public class MatchupEntryModel
     {
         /// <summary>

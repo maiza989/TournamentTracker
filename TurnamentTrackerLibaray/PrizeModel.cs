@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TurnamentTrackerLibaray
 {
+    /// <summary>
+    /// Prepersent one prize 
+    /// </summary>
     public class PrizeModel
     {
         /// <summary>

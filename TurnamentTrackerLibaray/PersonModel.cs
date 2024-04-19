@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TurnamentTrackerLibaray
 {
+    /// <summary>
+    /// Represent one team member
+    /// </summary>
     public class PersonModel
     {
         /// <summary>

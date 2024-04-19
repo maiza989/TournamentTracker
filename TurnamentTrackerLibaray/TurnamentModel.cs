@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TurnamentTrackerLibaray
 {
+    /// <summary>
+    /// Represent a turnament
+    /// </summary>
     public class TurnamentModel
     {
         /// <summary>
