@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TurnamentTrackerLibaray
 {
     /// <summary>
-    /// Represent one match in the turnament.
+    /// Represent one match in the turnament..
     /// </summary>
     public class MatchupModel
     {
