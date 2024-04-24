@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnamentTrackerLibaray", "TurnamentTrackerLibaray\TurnamentTrackerLibaray.csproj", "{1ABC058A-D037-4F18-BDF4-6A534E9EDE92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TournamentTrackerLibaray", "TurnamentTrackerLibaray\TournamentTrackerLibaray.csproj", "{1ABC058A-D037-4F18-BDF4-6A534E9EDE92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrunamentTrackerUI", "TrunamentTrackerUI\TrunamentTrackerUI.csproj", "{4BFFC5DE-1F57-41B9-A40B-2A24C86D61EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrunamentTrackerUI", "TrunamentTrackerUI\TrunamentTrackerUI.csproj", "{4BFFC5DE-1F57-41B9-A40B-2A24C86D61EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
