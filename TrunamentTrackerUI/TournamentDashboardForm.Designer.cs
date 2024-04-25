@@ -37,7 +37,7 @@
             // 
             // tournamentDashboardLabel
             // 
-            tournamentDashboardLabel.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            tournamentDashboardLabel.Anchor = AnchorStyles.None;
             tournamentDashboardLabel.AutoSize = true;
             tournamentDashboardLabel.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
             tournamentDashboardLabel.Location = new Point(132, 23);
@@ -48,7 +48,7 @@
             // 
             // loadTournamentLabel
             // 
-            loadTournamentLabel.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            loadTournamentLabel.Anchor = AnchorStyles.None;
             loadTournamentLabel.AutoSize = true;
             loadTournamentLabel.Font = new Font("Segoe UI", 15.75F);
             loadTournamentLabel.Location = new Point(179, 104);
@@ -59,7 +59,7 @@
             // 
             // loadTournamentDropDown
             // 
-            loadTournamentDropDown.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            loadTournamentDropDown.Anchor = AnchorStyles.None;
             loadTournamentDropDown.Font = new Font("Segoe UI", 15.75F);
             loadTournamentDropDown.FormattingEnabled = true;
             loadTournamentDropDown.Location = new Point(122, 137);
@@ -69,7 +69,7 @@
             // 
             // loadTournamentButton
             // 
-            loadTournamentButton.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            loadTournamentButton.Anchor = AnchorStyles.None;
             loadTournamentButton.FlatAppearance.BorderColor = Color.Silver;
             loadTournamentButton.FlatAppearance.MouseDownBackColor = Color.DimGray;
             loadTournamentButton.FlatAppearance.MouseOverBackColor = Color.WhiteSmoke;
@@ -84,7 +84,7 @@
             // 
             // createTournamentButton
             // 
-            createTournamentButton.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            createTournamentButton.Anchor = AnchorStyles.None;
             createTournamentButton.FlatAppearance.BorderColor = Color.Silver;
             createTournamentButton.FlatAppearance.MouseDownBackColor = Color.DimGray;
             createTournamentButton.FlatAppearance.MouseOverBackColor = Color.WhiteSmoke;
