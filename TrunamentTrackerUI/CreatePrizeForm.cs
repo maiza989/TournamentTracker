@@ -19,5 +19,24 @@ namespace TrunamentTrackerUI
         {
             InitializeComponent();
         }
+
+        private void createPrizeButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private bool VailidateForm() 
+        {
+            bool output = false;
+            int placeNumber = 0;
+            bool placeNumberVaildNumber = int.TryParse(placeNameTextBox.Text, out placeNumber);
+
+            if (placeNumberVaildNumber)
+            {
+                
+            }
+            return output; 
+        }
+
     }
 }

@@ -12,6 +12,10 @@ namespace TurnamentTrackerLibaray
     public class PrizeModel
     {
         /// <summary>
+        /// Represent a unique identifier to the prize model.
+        /// </summary>
+        public int Id { get; set; }
+        /// <summary>
         /// Repersent the price number. Ex: 1,2,3,4.
         /// </summary>
         public int PlaceNumber { get; set; }

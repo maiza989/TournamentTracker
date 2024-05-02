@@ -86,7 +86,7 @@
             tournamentPlayerListBox.Size = new Size(156, 30);
             tournamentPlayerListBox.TabIndex = 3;
             tournamentPlayerListBox.Text = "Teams / Players";
-            tournamentPlayerListBox.Click += tournamentPlayerListBox_Click;
+          //  tournamentPlayerListBox.Click += tournamentPlayerListBox_Click;
             // 
             // entryFeeLabel
             // 

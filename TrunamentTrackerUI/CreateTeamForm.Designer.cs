@@ -172,7 +172,7 @@
             emailTextBox.Name = "emailTextBox";
             emailTextBox.Size = new Size(145, 35);
             emailTextBox.TabIndex = 14;
-            emailTextBox.TextChanged += textBox3_TextChanged;
+           // emailTextBox.TextChanged += textBox3_TextChanged;
             // 
             // emailLabel
             // 
@@ -182,7 +182,7 @@
             emailLabel.Size = new Size(63, 30);
             emailLabel.TabIndex = 13;
             emailLabel.Text = "Email";
-            emailLabel.Click += emailLabel_Click;
+         //   emailLabel.Click += emailLabel_Click;
             // 
             // cellphoneTextBox
             // 
@@ -200,7 +200,7 @@
             cellphoneLabel.Size = new Size(124, 30);
             cellphoneLabel.TabIndex = 15;
             cellphoneLabel.Text = "Cellphone #";
-            cellphoneLabel.Click += label3_Click;
+        //    cellphoneLabel.Click += label3_Click;
             // 
             // createNewMemberButton
             // 

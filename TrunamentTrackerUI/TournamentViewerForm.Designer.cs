@@ -121,7 +121,7 @@
             TeamOneNameLabel.Size = new Size(135, 30);
             TeamOneNameLabel.TabIndex = 6;
             TeamOneNameLabel.Text = "<Team One>";
-            TeamOneNameLabel.Click += TeamOneNameLabel_Click;
+            //TeamOneNameLabel.Click += TeamOneNameLabel_Click;
             // 
             // teamOneScoreLabel
             // 
@@ -197,7 +197,7 @@
             versusLabel.Size = new Size(53, 30);
             versusLabel.TabIndex = 13;
             versusLabel.Text = "-VS-";
-            versusLabel.Click += versusLabel_Click;
+           // versusLabel.Click += versusLabel_Click;
             // 
             // TournamentViewerForm
             // 
