@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TurnamentTrackerLibaray
+namespace TournamentTrackerLibaray.Models
 {
     /// <summary>
     /// Represent one Team 
@@ -18,6 +18,6 @@ namespace TurnamentTrackerLibaray
         /// <summary>
         /// Represent the name of a team.
         /// </summary>
-        public string TeamName { get; set; } 
+        public string TeamName { get; set; }
     }
 }

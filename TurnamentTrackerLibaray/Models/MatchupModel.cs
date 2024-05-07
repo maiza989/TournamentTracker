@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TurnamentTrackerLibaray
+namespace TournamentTrackerLibaray.Models
 {
     /// <summary>
     /// Represent one match in the turnament..

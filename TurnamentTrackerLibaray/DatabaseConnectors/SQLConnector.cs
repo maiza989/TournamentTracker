@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TurnamentTrackerLibaray;
+using TournamentTrackerLibaray.Models;
 
-namespace TournamentTrackerLibaray
+namespace TournamentTrackerLibaray.DatabaseConnectors
 {
     public class SQLConnector : IDataConnection
     {
